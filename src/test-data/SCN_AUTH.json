@@ -1,0 +1,20 @@
+[
+  {
+    "scenario": "SCN_AUTH",
+    "test_case": "TC_AUTH_001",
+    "username": "Admin",
+    "password": "admin123"
+  },
+  {
+    "scenario": "SCN_AUTH",
+    "test_case": "TC_AUTH_002",
+    "username": "asdas",
+    "password": "asdsad"
+  },
+  {
+    "scenario": "SCN_AUTH",
+    "test_case": "TC_AUTH_003",
+    "username": "Admin",
+    "password": "admin123"
+  }
+]
